@@ -1,0 +1,26 @@
+{
+"name": "sscalabilitybaolanno1",
+"version": "1.0.0",
+"description": "The project has good scalability, allowing flexible expansion of features and performance according to needs.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/minnekirkli/Scalability.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "minnekirkli",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
